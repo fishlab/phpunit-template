@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<phpunit colors="true" bootstrap="src/Email.php">
+    <testsuites>
+        <testsuite name="S1">
+            <file>tests/TestEmail.php</file>
+        </testsuite>
+    </testsuites>
+</phpunit>
